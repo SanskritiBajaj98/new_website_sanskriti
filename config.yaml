@@ -83,8 +83,7 @@ params:
       - image: Finance-Banner-768x377.png
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
-        url: https://github.com/SanskritiBajaj98/FactorInvestingModel/blob/main/Quantech%20Capital%20Internship%20presentation%20-%20Sanskriti%20Bajaj%20.pdf
-      - image: santander-cycles-bike-share-sharing.jpeg
+        url: blogs/NewMacroModel.ipynb
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
         url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
