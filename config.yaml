@@ -88,18 +88,18 @@ params:
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
         url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+      - image: 1030_LEM_fire_sensor-1028x579.jpeg
+        subtitle: Undertook a project to predict forest fires
+        title: Predicting Forest Fires 
+        url:https://github.com/SanskritiBajaj98/ForestFiresMLAnalysis/blob/master/Sanskriti_ForestFires.ipynb
+      - image: 1*jbfWuj3RSAAvmJeBwLWbsw.jpeg
+        subtitle: Used Tableau for analysing movie data as part of the Business Analyst Nanodegree undertaken in partnership with Udacity
+        title: Analysis of Movies dataset using Tableau
+        url: https://github.com/SanskritiBajaj98/BusinessAnalystNanodegree/blob/master/TableauProject.pdf
+      - image: AlteryxBanner.png
+        subtitle: Conducted AB testing for a menu launch analysis using Alteryx
+        title: AB Testing Using Alteryx
+        url: https://github.com/SanskritiBajaj98/BusinessAnalystNanodegree/blob/master/ABTesting.pdf
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
