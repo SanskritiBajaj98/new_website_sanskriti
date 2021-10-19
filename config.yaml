@@ -8,11 +8,10 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      Checkout all my Data Analytics projects on this website
     title: Portfolio website for Sanskriti Bajaj
   Linkedin: https://www.linkedin.com/in/sb1998/
-  contact:
+  contact: 
     address:
       - city: City, ST 00000
         country: Country
@@ -21,15 +20,15 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: sanskriti.bajaj98@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+      - phone: 07842641293
+        title: Mobile
   custom_css: []
   custom_js: []
-  description: Your description
+  description: Hi thank you for checking out my website. I am a Masters in Financial Analysis student at London Business School
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -82,13 +81,13 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
+        title: Factor Investing Model using Python
+        url: https://github.com/SanskritiBajaj98/FactorInvestingModel/blob/main/Quantech%20Capital%20Internship%20presentation%20-%20Sanskriti%20Bajaj%20.pdf
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Cmpleted as part of my nanodegree in partnership with Udacity
+        title: US Bike Share Data Analysis
+        url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
