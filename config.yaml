@@ -80,11 +80,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: /Users/sanskritibajaj/Desktop/LBS/Finance-Banner-768x377.png
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
         url: https://github.com/SanskritiBajaj98/FactorInvestingModel/blob/main/Quantech%20Capital%20Internship%20presentation%20-%20Sanskriti%20Bajaj%20.pdf
-      - image: pic02.jpg
+      - image: /Users/sanskritibajaj/Desktop/LBS/santander-cycles-bike-share-sharing.jpeg
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
         url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
