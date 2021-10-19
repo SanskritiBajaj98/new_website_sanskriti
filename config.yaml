@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: /Users/sanskritibajaj/Desktop/LBS/Finance-Banner-768x377.png
+      - image: Finance-Banner-768x377.png
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
         url: https://github.com/SanskritiBajaj98/FactorInvestingModel/blob/main/Quantech%20Capital%20Internship%20presentation%20-%20Sanskriti%20Bajaj%20.pdf
