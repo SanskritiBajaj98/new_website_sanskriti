@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio website Sanskriti
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,8 +10,8 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
-  blog: {}
+    title: Portfolio website for Sanskriti Bajaj
+  Linkedin: https://www.linkedin.com/in/sb1998/
   contact:
     address:
       - city: City, ST 00000
