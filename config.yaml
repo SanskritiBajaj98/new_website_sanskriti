@@ -72,7 +72,11 @@ params:
         image: Finance-Banner-768x377.png
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
-        url: blogs/ipynb.html
+              - name: Finance Blog
+                image: Finance-Banner-768x377.png
+                subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
+                title: Factor Investing Model using Python
+                url: blogs/ipynb.html
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements
