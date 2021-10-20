@@ -9,13 +9,13 @@ params:
     buttonText: Get Started
     subtitle: |-
       Checkout all my Data Analytics projects on this website
-    title: Portfolio website for Sanskriti Bajaj
+    title: Data Analytics by Sanskriti Bajaj
   Linkedin: https://www.linkedin.com/in/sb1998/
   contact: 
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: City, London
+        country: United Kingdom
+        street: London Business School
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -68,11 +68,11 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        image: Finance-Banner-768x377.png
-        subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
-        title: Factor Investing Model using Python
-        url: blogs/ipynb.html
+      - name: Future project ideas
+        image: st0278.jpeg
+        subtitle: Some future projects ideas I want to work on
+        title: Future Project Ideas
+        url: blogs/blog1.md
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements
@@ -108,12 +108,12 @@ params:
         title: AB Testing Using Alteryx
         url: blogs/ABTesting.pdf
   two:
-    buttonText: Get Started
+    buttonText: Connnect 
     enable: yes
     subtitle: " Sanskriti Bajaj is currently pursuing her Masters in Financial Analysis at London Business School. 
-      \n Prior to joining London Business School Sanskriti has worked with three diverse organizations over the course of the last two years. \n     
-    Sanskriti began her career journey by completing an internship with the Govt. of India, whereby she was part of the team heading the $1 trillion Asset Monetization Program. \n    
+      \n Prior to joining London Business School, Sanskriti has worked with three diverse organizations over the course of the last two years. \n     
+    Sanskriti began her career journey by completing an internship with the Govt. of India, whereby she was part of the team heading the $1 Trillion Asset Monetization Program. \n    
     She then took on the role of a Data Analyst at The Economist Group. As part of The Economist's Intelligence Unit, she designed econometric models for producing data forecasts. \n    
     Prior to joining London Business School, Sanskriti undertook an internship with a quantitative investing start-up where she designed a Macro-Factor Investing model using Python which was used for creating a new investment vehicle for retail investors. \n Sanskriti is passionate about using Data for making efficient investment decisions for clients. Reach out to her for collborating on internesting Data Analytics projects."
     title: Career summary
-    url: blogs
+    url: https://www.linkedin.com/in/sb1998/
