@@ -6,4 +6,4 @@ slug: blogs
 title: Beyond my work
 ---
 
-Get to know what I enjoy outside of work and future project ideas I am curious about \
+Get to know what I enjoy outside of work and future project ideas I am curious about
