@@ -83,6 +83,10 @@ params:
   tiles:
     enable: yes
     showcase:
+      - image: MyschoolImage.png
+        subtitle: Find out more about my background
+        title: About me
+        url: https://www.linkedin.com/in/sb1998/
       - image: Finance-Banner-768x377.png
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
@@ -90,7 +94,7 @@ params:
       - image: santander-cycles-bike-share-sharing.jpeg
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
-        url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
+        url: blogs/Bike_Share_Analysis.ipynb
       - image: LEM_fire_sensor-1028x579.jpeg
         subtitle: Undertook a project to predict forest fires
         title: Predicting Forest Fires 
@@ -103,10 +107,6 @@ params:
         subtitle: Conducted AB testing for a menu launch analysis using Alteryx
         title: AB Testing Using Alteryx
         url: https://github.com/SanskritiBajaj98/BusinessAnalystNanodegree/blob/master/ABTesting.pdf
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
