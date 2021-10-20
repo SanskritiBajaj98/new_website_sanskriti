@@ -78,8 +78,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Sanskriti Bajaj
+    title: Designed by
   tiles:
     enable: yes
     showcase:
