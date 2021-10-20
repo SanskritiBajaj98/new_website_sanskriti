@@ -94,11 +94,11 @@ params:
       - image: santander-cycles-bike-share-sharing.jpeg
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
-        url: blogs/Bike_Share_Analysis.ipynb
+        url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
       - image: LEM_fire_sensor-1028x579.jpeg
         subtitle: Undertook a project to predict forest fires
         title: Predicting Forest Fires 
-        url: https://github.com/SanskritiBajaj98/ForestFiresMLAnalysis/blob/master/Sanskriti_ForestFires.ipynb
+        url: blogs/Predicting Forest Fires.pdf
       - image: jbfWuj3RSAAvmJeBwLWbsw.jpeg
         subtitle: Used Tableau for analysing movie data as part of the Business Analyst Nanodegree undertaken in partnership with Udacity
         title: Analysis of Movies dataset using Tableau
