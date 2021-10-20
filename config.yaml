@@ -110,11 +110,10 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: " Sanskriti Bajaj is currently pursuing her Masters in Financial Analysis at London Business School. 
+      \n    Prior to joining London Business School Sanskriti has worked with three diverse organizations over the course of the last two years. \n     
+    Sanskriti began her career journey by completing an internship with the Govt. of India, whereby she was part of the team heading the $1 trillion Asset Monetization Program. \n    
+    She then took on the role of a Data Analyst at The Economist Group. As part of The Economist's Intelligence Unit, she designed econometric models for producing data forecasts. \n    
+    Prior to joining London Business School, Sanskriti undertook an internship with a quantitative investing start-up where she designed a Macro-Factor Investing model using Python which was used for creating a new investment vehicle for retail investors. \n Sanskriti is passionate about using Data for making efficient investment decisions for clients. Reach out to her for collborating on internesting Data Analytics projects.
+    title: Career summary
     url: blogs
