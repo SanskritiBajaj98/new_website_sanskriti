@@ -53,22 +53,10 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started
+      - name: Explore more
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
-    links:
       - name: Home
         url: '#'
-      - name: Future project idea
-        subtitle: A future project idea I want to work on
-        title: Future Project Idea
-        url: blogs/ipsum
-      - name: Generic Blog
-        url: blogs/blog1.md
-      - name: Elements
-        url: elements.html
     menu: Menu
     subtitle: Sanskriti Bajaj
     title: Designed by
