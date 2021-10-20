@@ -70,7 +70,11 @@ params:
       - name: Future project ideas
         subtitle: Some future projects ideas I want to work on
         title: Future Project Ideas
-        url: blogs/ipsum
+        showcase:
+          - image: blogs/questions1.jpg
+            subtitle: Equity Bond Correlation
+            title: Equity Bond Correlation
+            url: blogs/ipsum
       - name: Generic Blog
         url: blogs/blog1.md
       - name: Elements
