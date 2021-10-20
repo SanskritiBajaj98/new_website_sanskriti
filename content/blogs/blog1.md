@@ -5,10 +5,10 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: st0278.jpeg
+image: img/st0278.jpeg
 keywords: ""
 slug: ipsum
 title: 
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+I wish to undertake a project where I can analyze the correlation between returns of various asset classes. It is assumed that equities and bonds exhibit negative correlation during cyclical inflationary periods i.e. periods of positive economic growth.I wish to explore the relationship between equities and bonds during stagflationary periods. The hypothesis question I wish to answer is "Does the correlation between equities and bonds turn positive during a counter cyclical inflationary period"
