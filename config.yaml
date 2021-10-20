@@ -106,7 +106,7 @@ params:
       - image: AlteryxBanner.jpeg
         subtitle: Conducted AB testing for a menu launch analysis using Alteryx
         title: AB Testing Using Alteryx
-        url: https://github.com/SanskritiBajaj98/BusinessAnalystNanodegree/blob/master/ABTesting.pdf
+        url: blogs/ABTesting.pdf
   two:
     buttonText: Get Started
     enable: yes
