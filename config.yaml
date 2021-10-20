@@ -71,7 +71,7 @@ params:
         image: st0278.jpeg
         subtitle: Some future projects ideas I want to work on
         title: Future Project Ideas
-        url: blogs/blog1
+        url: blogs/ipsum
       - name: Generic Blog
         url: blogs/blog1.md
       - name: Elements
