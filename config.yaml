@@ -42,13 +42,7 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+        url: https://twitter.com/sanskritibajaj
       - icon: fa-github
         label: GitHub
         url: https://www.github.com
@@ -67,13 +61,9 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Future project ideas
-        subtitle: Some future projects ideas I want to work on
-        title: Future Project Ideas
-        showcase:
-      - image: blogs/questions1.jpg
-        subtitle: Equity Bond Correlation
-        title: Equity Bond Correlation
+      - name: Future project idea
+        subtitle: A future project idea I want to work on
+        title: Future Project Idea
         url: blogs/ipsum
       - name: Generic Blog
         url: blogs/blog1.md
