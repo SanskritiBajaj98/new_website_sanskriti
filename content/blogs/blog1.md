@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: ""
+description: "Correlation between equities and bonds during stagflationary periods?"
 draft: false
 image: questions1.jpg
 keywords: ""
