@@ -33,11 +33,11 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Sanskriti Bajaj
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
+      - alt: London business School
+        text: 'Designed at: '
         url: https://www.html5up.net
     social:
       - icon: fa-twitter
@@ -45,10 +45,10 @@ params:
         url: https://twitter.com/sanskritibajaj
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/SanskritiBajaj98
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/sb1998/
   image: ''
   name: Your name
   navigation:

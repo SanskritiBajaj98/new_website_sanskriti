@@ -1,7 +1,7 @@
 ---
 categories:
-- ""
-- ""
+- "A research project I wish to undertake "
+- "Correlation between equities and bonds during stagflationary periods?"
 date: "2017-10-31T21:28:43-05:00"
 description: "Correlation between equities and bonds during stagflationary periods?"
 draft: false
