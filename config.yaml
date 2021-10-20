@@ -68,7 +68,6 @@ params:
       - name: Home
         url: '#'
       - name: Future project ideas
-        image: st0278.jpeg
         subtitle: Some future projects ideas I want to work on
         title: Future Project Ideas
         url: blogs/ipsum
