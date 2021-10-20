@@ -7,13 +7,12 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      Checkout all my Data Analytics projects on this website
+    subtitle: Checkout all my Data Analytics projects on this website
     title: Data Analytics by Sanskriti Bajaj
   Linkedin: https://www.linkedin.com/in/sb1998/
   contact: 
     address:
-      - city: City, London
+      - city: London
         country: United Kingdom
         street: London Business School
         title: Address
@@ -24,7 +23,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: 07842641293
+      - phone:  0447842641293
         title: Mobile
   custom_css: []
   custom_js: []
@@ -74,7 +73,7 @@ params:
         title: Future Project Ideas
         url: blogs/blog1.md
       - name: Generic Blog
-        url: blogs/ipsum
+        url: blogs/blog1.md
       - name: Elements
         url: elements.html
     menu: Menu
