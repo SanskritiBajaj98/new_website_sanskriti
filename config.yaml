@@ -71,7 +71,7 @@ params:
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
         url: blogs/QuantechCapital.pdf
-      - image: rstudio-og.png.webp
+      - image: rstudio-vector-logo.png
         subtitle: Completed as part of pre-programme course 
         title: Pre-programme assignment in Data Analytics 
         url: blogs/Sanskriti_Bajaj.Rmd
