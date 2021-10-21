@@ -71,6 +71,10 @@ params:
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
         url: blogs/QuantechCapital.pdf
+        - image: rstudio-og.png.webp.png
+        subtitle: Pre-programme Assignment completed as part of MFA2022
+        title: Pre-programme Assignment
+        url: blogs/mycode
       - image: santander-cycles-bike-share-sharing.jpeg
         subtitle: Completed as part of my nanodegree in partnership with Udacity
         title: US Bike Share Data Analysis
