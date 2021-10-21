@@ -74,7 +74,7 @@ params:
       - image: rstudio-vector-logo.png
         subtitle: Completed as part of pre-programme course 
         title: Pre-programme assignment in Data Analytics 
-        url: blogs/Sanskriti_Bajaj.Rmd
+        url: blogs/mycode
       - image: LEM_fire_sensor-1028x579.jpeg
         subtitle: Undertook a project to predict forest fires
         title: Predicting Forest Fires 
