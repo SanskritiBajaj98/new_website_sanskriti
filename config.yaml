@@ -71,10 +71,10 @@ params:
         subtitle: Macro-Factor investing model developed for my summer internship at Quantech Capital
         title: Factor Investing Model using Python
         url: blogs/QuantechCapital.pdf
-      - image: santander-cycles-bike-share-sharing.jpeg
-        subtitle: Completed as part of my nanodegree in partnership with Udacity
-        title: US Bike Share Data Analysis
-        url: https://github.com/SanskritiBajaj98/USBikeshareSystemDataAnalysis/blob/master/Bike_Share_Analysis.ipynb
+      - image: rstudio-og.png.webp
+        subtitle: Completed as part of pre-programme course 
+        title: Pre-programme assignment in Data Analytics 
+        url: blogs/Sanskriti_Bajaj.Rmd
       - image: LEM_fire_sensor-1028x579.jpeg
         subtitle: Undertook a project to predict forest fires
         title: Predicting Forest Fires 
